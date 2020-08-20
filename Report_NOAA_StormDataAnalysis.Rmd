@@ -7,7 +7,7 @@ output:
     keep_md: true
 ---
 
-```{r golbal options, include=FALSE, message=FALSE, warning=FALSE}
+```{r global options, include=FALSE, message=FALSE, warning=FALSE}
 knitr::opts_chunk$set(comment='')
 ```
 <br>
